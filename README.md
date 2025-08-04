@@ -35,7 +35,9 @@ Do you want a rematch? (yes/no): yes
 
 ---
 
-Screenshot:
+Gameplay Screenshot
+
+![Game Screenshot](screenshot)
 
 
 ---
