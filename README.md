@@ -43,8 +43,3 @@ Gameplay Screenshot
 ---
 
 Enjoy the game! 🕹
-
-  
-
-If you want, I can **guide you step by step to upload both the .py file and this README** to GitHub now.  
-Do you want me to?
